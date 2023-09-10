@@ -35,3 +35,11 @@ En fait, il y a deux approches,
 Je push ça, et en rentrant fait un push témoin pour "mesurer" le temps que ça me prendra !
 
 UPDATE : 20h35 : je tente ma chance !
+
+### FEEDBACK
+
+J'y suis arrivé ! J'ai eu une seule difficulté : j'ai bataillé pour tenter de modifier la hauteur des deux rectangles en bas de la dernière colonne, ce qui donnait sous le rectangle bleu un espace noir immense... jusqu'au rectangle blanc cassé qui lui sortait alègrement d emon carré et partit vivre sa vie.
+
+L'astuce a été alors de fusitonner ces deux rectangles en un seul item dans kequel j'ai mis deux classes, une pour le rectangle bleu et une pour le rectangle blanc cassé. EN renvanche, je dois avouer que là, sur la fin, j'ai bidouillé manu militari, entrant des ordres de gandeur à la main pour "bourrer" les pixels manquants pour faire un carré harmonieux. 
+
+Je pense avoir saisi le grid !
