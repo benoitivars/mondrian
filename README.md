@@ -33,3 +33,5 @@ En fait, il y a deux approches,
     * et un fond de couleur 
 
 Je push ça, et en rentrant fait un push témoin pour "mesurer" le temps que ça me prendra !
+
+UPDATE : 20h35 : je tente ma chance !
